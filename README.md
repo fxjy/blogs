@@ -1,6 +1,6 @@
 # blogs for each tech. topics like below:
 
-Instance Message Service (IMS)
+[Instance Message Service (IMS)](ims.md)
 
 QQ:3226864463 
 email:3226864463@qq.com
